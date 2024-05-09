@@ -1,0 +1,89 @@
+main{
+    width: 123vh;
+    height: 21vh;
+    margin-left: 80vh;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.136);
+    border-bottom-width: 3px;
+    border-radius: 4px;
+    position: absolute;
+    right: 20vh;
+    margin-top: -84.7vh;
+    
+}
+main div.mainPage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 16px;
+    padding: 0px 15vh;
+}
+main div.mainPage a{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.74);
+    font-size: 21px;
+    font-weight: 100;
+    transform: scale();
+}
+span.namesMain{
+    font-weight: 400;
+    font-size: 18px;
+    color:rgba(0, 0, 0, 0.74);
+}
+a span.starMain{
+    color: rgba(0, 0, 0, 0.548);
+    font-size: 40px;
+    padding-left: 40px;
+}
+span #star{
+    color: rgba(0, 0, 0, 0.548);
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+  
+div.mainPage a:hover h4 {
+    color: rgb(90, 128, 0);
+  }
+div.mainPage a:hover .namesMain {
+    color: rgb(0, 128, 62);
+}  
+h4.h1{
+    position: absolute;
+    bottom: 16px;
+}
+#rotateQuote{
+rotate: 180deg;
+
+}
+.mainPage .h1::after{
+   content: "";
+   width: 157%;
+   height: 2px;
+   background-color: rgb(38, 255, 0);
+   position: absolute;
+   border-radius: 2px;
+   transform: scale(0);
+   left: -30px;
+   right: 10px;
+   bottom: -18px;
+   transition: 0.3s ease;
+   
+}
+.mainPage .h1:hover::after{
+    transform: scale(1);
+
+}
+.mainReview{
+    position: relative;
+    top: 83vh;
+    right: 20vh;
+    
+}
+.review{
+    width: 128vh;
+}
+
+
+

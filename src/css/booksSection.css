@@ -1,0 +1,97 @@
+.booksMain{
+     position:absolute;
+     right: 21.8vh;
+     margin-top: -57vh;
+     margin-right: -5.5vh;
+     width: 132vh;
+     height: 150vh;
+     
+}
+.containerBook{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.booksNames{
+    width: 29.6vh;
+    height: 45vh;
+    border: 1px solid rgba(0, 0, 0, 0.139);
+    margin-right: 3vh;
+    margin-left: 0.3vh;
+    margin-bottom: 5vh;
+    padding: 0 14vh;
+    background-color:white;
+    border-radius: 7px;
+    cursor: pointer;
+    transform: scale();
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.booksNames:hover{
+    border-color: rgb(0, 255, 136);
+    transition: 0.3s ease;
+    transform: scaleY(1.02);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.booksNames p{
+    font-size: 10px;
+    text-align: center;
+    font-weight: 600;
+    
+}
+.booksNames p:hover{
+    text-decoration: underline #045757;
+ }
+.starsBooks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -18px;
+    margin-bottom: 6px;
+}
+.starsBooks i{
+    color: orange;
+    font-size: 12px;
+}
+.starsBooks span{
+    font-size: 13px;
+    padding-right: 5px;
+}
+.booksImg{
+    width: 20vh;
+    height: 28vh;
+    border: 1px solid rgba(0, 0, 0, 0.139);
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+.booksImg img{
+    width: 18.5vh;
+    height: 26.5vh;
+    border: 1px solid;
+    border-style: none;
+    border-radius: 7px;
+    margin: 3.5px;
+}
+.loadMore{
+    text-align: center;
+    margin-left: 38%;
+    width: 30vh;
+    height: 6.5vh;
+    background-color: #045757;
+    border-radius: 4px;
+    border-style: none;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+
+

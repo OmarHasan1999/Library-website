@@ -1,0 +1,172 @@
+.mainQuotesSection{
+     width: 132vh;
+     height: 150vh;
+}
+.containerQuotes{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: absolute;
+    right: 20vh;
+    margin-top:-60vh;
+}
+
+div.quotesSection{
+    width: 128vh;
+    height: 32vh;
+    background-color: white;
+    margin-left: 80vh;
+    border: 1px solid rgba(0, 0, 0, 0.136);
+    border-radius: 4px;
+    margin-bottom: 3vh;
+}
+#quotesHash{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 35px;
+}
+#quotesHash:hover{
+    border-color: rgb(0, 255, 123);
+}
+#quotesHash p{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.866);
+    margin-bottom: 15px;
+    width: 85%;
+    line-height: 33px;
+    padding-top: 15px;
+}
+#quotesHash i{
+    font-size: 20px;
+    color: rgb(0, 255, 145);
+    margin-bottom: 15px;
+}
+#rotateQuotes{
+    rotate: 180deg;
+}
+div.bookQuote{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    right: 0%;
+    margin-top: 29vh;
+    margin-bottom: -1px;
+    margin-right: 1px;
+    padding-top: 9px;
+    padding-bottom: 7px;
+    padding-right: 18px;
+    padding-left: 10px;
+    transform: scale();
+}
+div.bookQuote:hover{
+    background-color:rgb(240, 240, 240);
+    transition: 0.7s ease;
+}
+div.bookQuote h7{
+    color: rgb(0, 255, 123);
+    font-size: 20px;
+    padding-right: 4vh;
+}
+div.bookQuote #quo{
+    font-size: 18px;
+    rotate: 12deg;
+    position: absolute;
+    right: 15px;
+    margin-top: 13px;
+}
+hr.hrQuo{
+    position: absolute;
+    margin-top: 22vh;
+    width: 122.8vh;
+    border: 0.2px solid rgba(0, 0, 0, 0.030);
+}
+div.likeQuote{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    margin-right: 47%;
+    margin-top: 32vh;
+    margin-bottom: -1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 18px;
+    padding-left: 10px;
+    transform: scale();
+}
+div.likeQuote i{
+    margin-right: 3vh;
+    font-weight: 100;
+    color: aliceblue;
+    cursor: pointer;
+}
+div.likeQuote span{
+    color: rgb(0, 255, 123);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/*
+    Sayfa kaydırıldığında görüntülenen alıntıların yüksekliklerini belirleyen stiller.
+*/
+.completeQuotes{
+    width: 100%;
+    height: 450vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+
+.completeQuotesOne{
+    width: 100%;
+    height: 500vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+.completeQuotesTwo{
+    width: 100%;
+    height:500vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+.completeQuotesThree{
+    width: 100%;
+    height:500vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+.completeQuotesFour{
+    width: 100%;
+    height:450vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+.completeQuotesFive{
+    width: 100%;
+    height:450vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+.completeQuotesSix{
+    width: 100%;
+    height:450vh;
+    background-color: rgba(0, 0, 0, 0.035);
+}
+ .arrow{
+    width: 6vh;
+    height: 7vh;
+    background-color: white;
+    border-radius: 3px;
+    border-style: none;
+    border: 1px solid black;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    z-index: 999; 
+ } 
+ .arrow span{
+    font-size: 18px;
+    color: aliceblue;
+    padding: 7px 10px;
+    background-color: rgba(0, 0, 0, 0.571);
+    border-radius: 3px;
+
+ }
+
+

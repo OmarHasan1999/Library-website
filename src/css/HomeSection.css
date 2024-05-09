@@ -1,0 +1,148 @@
+div.backImg{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 60vh;
+    background: url(../assets/images/toppng.com-books-library-shelves-lighting-3840x2400.jpg)
+    no-repeat;
+    background-position: center;background-size: cover;
+    padding: 140px 130px;
+}
+.parInput{
+    position: absolute;
+    right: 150px;
+    margin-top: 120px;
+}
+.parInput p{
+    color: aliceblue;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    right: 0%;
+}
+.searchInput{
+    margin-top: 60px;
+    margin-right: 130px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.searchInput input{
+    width: 110vh;
+    height: 40px;
+    border-color: rgb(0, 140, 255);
+    text-align: right;
+    font-size: 16px;
+    color: rgb(0, 162, 255);
+    padding-right: 12px;
+}
+.searchInput input:focus{
+    outline: none;
+}
+.searchInput span{
+    color: aliceblue;
+    font-size: 18px;
+    width: 42px;
+    padding: 6px 13px;
+    background-color: rgb(0, 123, 255);
+    border-radius: 3px;
+    margin-right: -1px;
+    border-style: none;
+    cursor: pointer;
+    margin-top: -1px;
+}
+.textIndro{
+    width: 100%;
+    height: 65vh;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+.textIndro hr{
+    width: 30vh;
+    border: 0.0001px solid rgba(0, 0, 0, 0.082);
+    margin-top: 10vh;
+    
+    
+}
+.hrOne{
+    margin-left: 490px;
+    position: absolute;
+    top: 460px;
+}
+.hrTwo{
+    position: absolute;
+    top: 460px;
+    right: 76vh;
+}
+span.nokta{
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    top: 491px;
+    right: 107vh;
+    color: rgba(0, 0, 0, 0.496);
+}
+.textIndro p{
+    padding: 0px 60px;
+    margin-top: 16vh;
+    margin-left: 20vh;  
+    width: 87%;
+    text-align: center;
+    font-size: 20px;
+    font-weight:400;
+    color:rgb(0, 0, 0);
+    line-height: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.hrThree{
+    position: absolute;
+    left: 81.5vh;
+    top: 121vh;
+}
+span.noktaTwo{
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    top: 126vh;
+    right: 106vh;
+    color: rgba(0, 0, 0, 0.496);
+}
+.hrFour{
+    position: absolute;
+    top: 121vh;
+    right: 75vh;
+}
+.mainPages{
+    width: 100%;
+    height: 397vh;
+    background-color: rgba(0, 0, 0, 0.035);
+    
+}
+div.complete{
+    width: 100%;
+    height: 152vh;
+    background-color: rgba(0, 0, 0, 0.035);
+    display: block;
+}
+div.completeCre{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.035);
+    display: block;
+}
+div.completeEnd{
+    width: 100%;
+    height: 107vh;
+    background-color: rgba(0, 0, 0, 0.035);
+    display: block;
+}
+
+/***************************************/
+
+
+

@@ -1,0 +1,238 @@
+{
+            "reviews" : [
+                {
+                    "title": "İnancımın Şüpheden Seyahati",
+                    "name": "Em Muaz",
+                    "par": "son derece önemli bir kitap, birçok konuyu anlamamı sağladı, özellikle insan ruhu ve ruhun bedenle ilişkisi konusunda, zaman ve bedenle ilgili.",
+                    "img": "../../../src/assets/images/How-to-Control-Dahlia-Pests-Feature.jpg",
+                    "date": "2019 haziran 10",
+                    "id": 1
+                },
+                {
+                    "title": "Örümcek Romanı",
+                    "name": "Zarrour Khalid",
+                    "par": "Tarzı ve ifadesiyle dikkat çeken, okumaya devam etme isteği uyandıran harika bir kitap.",
+                    "img": "../../../src/assets/images/1550221665427.jpg",
+                    "date": "2019 nis 28",
+                    "id": 2
+                },
+                {
+                    "title": "Maymunlar Çağı",
+                    "name": "Said Muhammed",
+                    "par": "Harika ve okunmaya değer bir kitap.",
+                    "img": "../../../src/assets/images/images (3).jpg",
+                    "date": "2018 eyl 01",
+                    "id": 3
+                },
+                {
+                    "title": "Sıfırın Altındaki Adam",
+                    "name": "FAISSAL GUIRROU",
+                    "par": "Yaşadığımız gerçeğe dair harika bir kitap.",
+                    "img": "../../../src/assets/images/images (2).jpg",
+                    "date": "2019 mayıs 15",
+                    "id": 4
+                },
+                {
+                    "title": "Aşkın 55 Sorunu",
+                    "name": "Ehab shenoda",
+                    "par": "Mustafa Mahmoud bir ikon. Onun öncesinin zamanında da bir başarı ve başarının gururu.",
+                    "img": "../../../src/assets/images/images (6).jpg",
+                    "date": "2020 ara 20",
+                    "id": 5
+                },
+                {
+                    "title": "Kur'an Canlı Bir Varlık",
+                    "name": "Usame bin",
+                    "par": "Tüm zamanların en iyi kitaplarından biri.",
+                    "img": "../../../src/assets/images/blog-header-3.webp",
+                    "date": "2020 ekim 23",
+                    "id": 6
+                },
+                {
+                    "title": "Gelecek İçin Okuma",
+                    "name": "Omar Atef",
+                    "par": "Allah sizi rahmet eylesin Dr. Mustafa. Mantık açısından harika, muhteşem bir kitap.",
+                    "img": "../../../src/assets/images/_129393110_syr_palmyra2_afp.jpg",
+                    "date": "2021 şub 25",
+                    "id": 7
+                },
+                {
+                    "title": "Politik İslam ve Gelecek Savaş",
+                    "name": "İlya",
+                    "par": "Allah onun ruhunu rahmet eylesin, kitaplarını okumaktan ve uslubundan hiç sıkılmadım... Güzel bir üslup.",
+                    "img": "../../../src/assets/images/images.jpg",
+                    "date": "2021 ağu 13",
+                    "id": 8
+                },
+                {
+                    "title": "Ölüm Kapısının Ardındaki",
+                    "name": "Lotus Çiçeği",
+                    "par": "Çok garip bir roman, ancak konuyu düşünürsek, dünyada çoklu zamanlar olabilir ve her birinde aynı kişi farklı bir karaktere sahip olabilir.",
+                    "img": "../../../src/assets/images/1577882477921.jpg",
+                    "date": "2020 mayıs 26",
+                    "id": 9
+                },
+                {
+                    "title": "Tanrıyı Gördüm",
+                    "name": "Sherin Kamel",
+                    "par": "Beni ruhsal anlamda çok aydınlattı... Harika bir kitap.",
+                    "img": "../../../src/assets/images/id10.jpg",
+                    "date": "2019 temmuz 10",
+                    "id": 10
+                },
+                {
+                    "title": "Ateist Arkadaşımla Sohbet",
+                    "name": "Hüseyin bin",
+                    "par": "Çok mükemmel... Arap düşünürlerinden birinin derin düşüncelerinin özü ve sonucu, Allah onun ruhunu cennetine koysun.",
+                    "img": "../../../src/assets/images/id11.jpg",
+                    "date": "2018 kasım 01",
+                    "id": 11
+                },
+                {
+                    "title": "Maymunlar Çağı",
+                    "name": "Anas Yaser",
+                    "par": "Yazarın sunduğu fikirler bu güzel sayfalarda olmazsa olmaz, herkese okumasını tavsiye ederim, çünkü o gerçekten büyük değil.",
+                    "img": "../../../src/assets/images/id12.jpg",
+                    "date": "2019 eylül 10",
+                    "id": 12
+                },
+                {
+                    "title": "Rüyalar",
+                    "name": "Muhammed İbrahim",
+                    "par": "Doktor Mustafa'nın okuduğum en güzel kitaplardan biri.",
+                    "img": "../../../src/assets/images/id13.jpg",
+                    "date": "2019 mayıs 15",
+                    "id": 13
+                },
+                {
+                    "title": "Aşkın 55 Sorunu",
+                    "name": "Holy Pegsus",
+                    "par": "Güzel.",
+                    "img": "../../../src/assets/images/id14.jpg",
+                    "date": "2018 haziran 30",
+                    "id": 14
+                },
+                {
+                    "title": "İnancımın Şüpheden Seyahati",
+                    "name": "Abdullah",
+                    "par": "Bu kitabı tümüyle, bıkkınlık ve usanmadan okudum, ancak dili yoğun bir bilgi birikimine sahip ve her kelime çok az faydalı.",
+                    "img": "../../../src/assets/images/id15.jpg",
+                    "date": "2019 temmuz 11",
+                    "id": 15
+                },
+                {
+                    "title": "Einstein ve Görelilik",
+                    "name": "Amira Samy",
+                    "par": "Basit ve ilgi çekici bir dille görelilik teorisine harika bir kitap, Allah Mustafa Mahmud'un ruhunu rahmet eylesin.",
+                    "img": "../../../src/assets/images/id16.jpg",
+                    "date": "2019 mayıs 01",
+                    "id": 16
+                },
+                {
+                    "title": "Örümcek Romanı",
+                    "name": "Doaa Sayed",
+                    "par": "Düşünce ve hayal gücünün ufuklarını genişleten harika bir roman.",
+                    "img": "../../../src/assets/images/id17.jpg",
+                    "date": "2022 şubat 03",
+                    "id": 17
+                },
+                {
+                    "title": "Aşk ve Hayatta",
+                    "name": "Hasaniyya El Vahid",
+                    "par": "Çok güzel.",
+                    "img": "../../../src/assets/images/id18.jpg",
+                    "date": "2020 aralık 13",
+                    "id": 18
+                },
+                {
+                    "title": "Mesih Deccal",
+                    "name": "Yasser Elnaho",
+                    "par": "Çok güzel.",
+                    "img": "../../../src/assets/images/id19.jpg",
+                    "date": "2019 ekim 20",
+                    "id": 19
+                },
+                {
+                    "title": "Kur'an Modern Bir Anlamaya Çalışma",
+                    "name": "Med Mrani",
+                    "par": "Nadir yorumlarla.",
+                    "img": "../../../src/assets/images/id20.jpg",
+                    "date": "2020 aralık 17",
+                    "id": 20
+                },
+                {
+                    "title": "Kur'an Canlı Bir Varlık",
+                    "name": "Yemenli Cariye",
+                    "par": "Kelimelerin taşıdığı her şeyin muhteşem bir kitap olduğu.",
+                    "img": "../../../src/assets/images/id21.jpg",
+                    "date": "2020 nisan 4",
+                    "id": 21
+                },
+                {
+                    "title": "Geleceği Okuma",
+                    "name": "Mohamed Charroud",
+                    "par": "En güzel yazar.",
+                    "img": "../../../src/assets/images/id22.jpg",
+                    "date": "2022 ocak 05",
+                    "id": 22
+                },
+                {
+                    "title": "Ağlayanlar",
+                    "name": "Rahma Mohamed",
+                    "par": "Hoş.",
+                    "img": "../../../src/assets/images/id23.jpg",
+                    "date": "2022 ağustos 18",
+                    "id": 23
+                },
+                {
+                    "title": "En Büyük Sır",
+                    "name": "Es'adi El Haşimi",
+                    "par": "Mustafa Mahmud'un en derin kitaplarından biri, Allah mekanını cennet eylesin, dinç ve mezarın hoş olsun, öğretmenim, huzur içinde yat.",
+                    "img": "../../../src/assets/images/id24.jpg",
+                    "date": "2020 ağustos 07",
+                    "id": 24
+                },
+                {
+                    "title": "Tanrıyı Gördüm",
+                    "name": "Fad El",
+                    "par": "Mustafa Mahmud ikonu. Zamanının ötesinde ve başarılı olduğu kadar gurur verici.",
+                    "img": "../../../src/assets/images/id25.jpg",
+                    "date": "2020 mayıs 07",
+                    "id": 25
+                },
+                {
+                    "title": "Tabuttan Çıkış",
+                    "name": "Shin Rae",
+                    "par": "Harika.",
+                    "img": "../../../src/assets/images/id26.jpg",
+                    "date": "2018 şubat 28",
+                    "id": 26
+                },
+                {
+                    "title": "Delilik Zamanı mı?",
+                    "name": "Amina Herish",
+                    "par": "Yaşadığımız gerçekler hakkında harika bir kitap.",
+                    "img": "../../../src/assets/images/id26.jpg",
+                    "date": "2022 ağustos 31",
+                    "id": 27
+                },
+                {
+                    "title": "Aşıkların İtirafları",
+                    "name": "Hosin Addi",
+                    "par": "Henüz okumadım, ancak açıkça harika ve faydalı olduğu görülüyor, çünkü sadece Mustafa Mahmud'un özüne sahip.",
+                    "img": "../../../src/assets/images/id28.jpg",
+                    "date": "2020 nisan 29",
+                    "id": 28
+                },
+                {
+                    "title": "Günah ve Masumiyet Marşları",
+                    "name": "Morad Moner",
+                    "par": "Çok harika bir kitap.",
+                    "img": "../../../src/assets/images/id29.jpg",
+                    "date": "2021 temmuz 06",
+                    "id": 29
+                }
+            ]
+        
+    
+}

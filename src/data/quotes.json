@@ -1,0 +1,735 @@
+{
+    
+    "headersPars" : [
+        {
+            "header": "Einstein ve Görecelik",
+            "par": "Gördüğümüz dünya gerçek dünya değil, sadece zihnimizin uydurduğu bir sembol dünyasıdır ve sembollerle hapiste yaşıyoruz.",
+            "likeNum": 309,
+            "disLikeNum": 8,
+            "id": 1
+        },
+        {
+            "header": "Şüpheyden İmana Yolculuğum",
+            "par": "Fitre, doğuştan sahip olduğumuz bir organ gibidir. Ve bu, bilginin kesinliğinden daha yüksek bir kesinlik.",
+            "likeNum": 253,
+            "disLikeNum": 3,
+            "id": 2
+        },
+        {
+            "header": "Gülenler Ağlayana Kadar",
+            "par": "Kaç büyük adam ve lider, şehit gömleği içinde öldüler ve şairler onları överken, şöhretleri uçtu ve onlar hırsızlar iken şöhretleri uçtu.",
+            "likeNum": 103,
+            "disLikeNum": "",
+            "id": 3
+        },
+        {
+            "header": "Sayınlar, Maskelerinizi Çıkarın",
+            "par": "Bu bölünme ve ayrılık devam ederse, ayaklarımızın altında genişleyen uçurumu görmüyor muyuz? Ve eğer devam ederse, hepinizin içine düşeceği çukur.",
+            "likeNum": 83,
+            "disLikeNum": 2,
+            "id": 4
+        },
+        {
+            "header": "Amber",
+            "par": "Bir kadının yalan söylediğini gördüğümde, ne kadar göz alıcı ve zeki olursa olsun, güzelliği hissedemem... Yalan söyleme hissim beni rahatsız ediyor ve güzellik önüme yalnızca bir boya gibi görünüyor.",
+            "likeNum": 15,
+            "disLikeNum": "",
+            "id": 5
+        },
+        {
+            "header": "Ruh ve Beden",
+            "par": "Meditasyona bağımlılık, kalpte titremeye neden olur.",
+            "likeNum": 34,
+            "disLikeNum": 6,
+            "id": 6
+        },
+        {
+            "header": "Şüpheyden İmana Yolculuğum",
+            "par": "Tanrı, varoluşun ta kendisidir... Ve yokluk ondan önce yoktur. O, sonsuz ve başlangıcı olmayan maddi varlık.",
+            "likeNum": 13,
+            "disLikeNum": 1,
+            "id": 7
+        },
+        {
+            "header": "Günah ve Masumiyet Şarkıları",
+            "par": "Siz yalnızca sevgili olan, kalplerin nereye gittiğini gösterenler. Ve yalnızca tapılan, ibadet edilen nereye bakılırsa bakılsın.",
+            "likeNum": 34,
+            "disLikeNum": 6,
+            "id": 8
+        },
+        {
+            "header": "Sayınlar, Maskelerinizi Çıkarın",
+            "par": "Hak tek ve iki tarafı yok... Ve özgürlük tek ve iki anlamı yok.",
+            "likeNum": 34,
+            "disLikeNum": 6,
+            "id": 9
+        },
+        {
+            "header": "Politik İslam ve Yaklaşan Savaş",
+            "par": "Akıl işgali ve inancın bozulması, toprakların işgali ve kontrolünün dayanak noktasıdır. Bunlar, birbirine bağlı halkalardır, biri diğerini alır.",
+            "likeNum": 5,
+            "disLikeNum": "",
+            "id": 10
+        },
+        {
+            "header": "İslam Nedir?",
+            "par": "Kaderin yollarında yalnızca kendinizle karşılaşırsınız... Yalan söylerseniz, yalanlar size koşar... Hırsız olursanız, suçlar size yapışır... Hangi yola giderseniz gidin, kaderiniz sadece kendinizin bir yansıması olacaktır.",
+            "likeNum": 23,
+            "disLikeNum": 2,
+            "id": 11
+        },
+        {
+            "header": "Ruh ve Beden",
+            "par": "Ne kadar derin ve ifade edilemez sessizliğimiz var.",
+            "likeNum": 34,
+            "disLikeNum": 6,
+            "id": 12
+        },
+        {
+            "header": "Ruh ve Beden",
+            "par": "Elimize geçen her şeyi dikkatlice ve eleştirel bir zihinle okuyalım. Çünkü bize ölümü getirmek için zehirlerle dolu olabilecek şeyler ne kadar çok.",
+            "likeNum": "",
+            "disLikeNum": "",
+            "id": 13
+        },
+        {
+            "header": "Politik Kukla Oyunları",
+            "par": "Allaha itaat ederek bilgi aramak ve sakal bırakmak, cübbeleri kısaltmak ve görünüşlerle ve yüzeysel şeylerle ilgilenmek yerine çalışın... Çünkü kitabınızda indirilen ilk ayet şudur: Oku.",
+            "likeNum": 22,
+            "disLikeNum": "",
+            "id": 14
+        },
+        {
+            "header": "Politik Kukla Oyunları",
+            "par": "Fakir olmak ayıp değildir... Ama geri kalmak bir suçtur.",
+            "likeNum": 22,
+            "disLikeNum": 2,
+            "id": 15
+        },
+        {
+            "header": "Gülenler Ağlayana Kadar",
+            "par": "Ve dünyanın gerçeği nedir? Parlak renkli spektrumun ışıltılı renkleriyle parlayan bir kabarcık, sonra aniden hiçbir şey olmaz.",
+            "likeNum": 68,
+            "disLikeNum": 3,
+            "id": 16
+        },
+        {
+            "header": "Einstein ve Görecelik",
+            "par": "Şeyleri sadece asıllarından değil, bazen hiç göremeyiz ve bazen de hiç var olmayan şeyleri görürüz.",
+            "likeNum": 25,
+            "disLikeNum": 4,
+            "id": 17
+        },
+        {
+            "header": "İslam Nedir?",
+            "par": "İnsan, sadece sevdiği şeye karşı direndiği ve nefret ettiği şeyi taşıdığı an insandır.",
+            "likeNum": 22,
+            "disLikeNum": 2,
+            "id": 18
+        },
+        {
+            "header": "55 Aşk Sorunu",
+            "par": "Kız bir batağa düşer... Erkeği memnun etmek için ne yapmalıdır? Eğer direnirse, gerici der; boyun eğerse, temiz olmadığını söyler!",
+            "likeNum": 22,
+            "disLikeNum": "",
+            "id": 19
+        },
+        {
+            "header": "55 Aşk Sorunu",
+            "par": "Her karakterin kendisine göre bir mantığı vardır... Ve karakter davranışını değiştirebilir, ancak mantığını değiştiremez... Çünkü mantığı, onun özü ve ruhudur.",
+            "likeNum": 18,
+            "disLikeNum": "",
+            "id": 20
+        },
+        {
+            "header" : "Amber 7",
+            "par" :  "Her şey mesafelerin azaldığı kadar kolaylaşır... Zaman her şeyi aşar.",
+            "likeNum" : 13,
+            "disLikeNum" : "",
+            "id" : 21
+        },
+        {
+            "header" : "Şüpheyden İmana Yolculuğum",
+            "par" :  "Her birimizin içine, gizli bir saatte, kendi kalbimize dönmesine izin verin ve kalbimiz ne olduğunu sorun, kalbimiz size her şeyi gösterecek ve Allah, içgüdü ve sezgisel adını verdiğimiz pusulayı kalplerimize emanet etti.",
+            "likeNum" : 8,
+            "disLikeNum" : 2,
+            "id" : 22
+        },
+        {
+            "header" : "İsrail: Başlangıç ve Son",
+            "par" :  "Dünyamız susuzluktan başka bir şey değil, doyumsuz bir açlık ve huzursuz bir yorgunluk ve kendi etini yiyen bir odun ve imansız bir boşluk ve yıkım ve karanlık ve kaybolma ve hiçbir şey için çaba.",
+            "likeNum" : 34,
+            "disLikeNum" : 2,
+            "id" : 23
+        },
+        {
+            "header" : "Örümcek",
+            "par" :  "Genellikle sadece gördüğümüz ve dokunduğumuz şeyleri kabul ederiz... Bu bir kibir çünkü gördüğümüz şeyler çok az... Ve bu dünyada fark ettiğimiz şeyler çok az.",
+            "likeNum" : 54,
+            "disLikeNum" : 4,
+            "id" : 24
+        },
+        {
+            "header" : "Sayınlar, Maskelerinizi Çıkarın",
+            "par" :  "Her birimizde, karanlık ve karanlık bir taraf vardır ve bu, bizi umutsuzluğa, umutsuzluğa ve intihara çağıran ruh halidir ve bizi tutkuya ve öfkeye ve deli kıskançlığa iten ruh halidir.",
+            "likeNum" : 41,
+            "disLikeNum" : 5,
+            "id" : 25
+        },
+        {
+            "header" : "İslam Nedir?",
+            "par" :  "Ve kendi varlığından başka hiçbir şeye sahip değildir ve tüm malı Allah'ın.",
+            "likeNum" : 19,
+            "disLikeNum" : 1,
+            "id" : 26
+        },
+        {
+            "header" : "Politik İslam ve Yaklaşan Savaş",
+            "par" :  "Peygamber hiç kimseyi ne bir savaşta ne de bir kıtlıkta kesmemişti ve bu kesen, herkes suçlu ve her biri bir başkasının cebine elini koyuyordu.",
+            "likeNum" : 31,
+            "disLikeNum" : 1,
+            "id" : 27
+        },
+        {
+            "header" : "Günah ve Masumiyet Şarkıları",
+            "par" :  "Sadece sevildiğinizde, kalplerin nereye gittiğini gösterirsiniz ve yalnızca tapılanlar nereye bakarsa baksın.",
+            "likeNum" : 47,
+            "disLikeNum" : "",
+            "id" : 28
+        },
+        {
+            "header" : "Günah ve Masumiyet Şarkıları",
+            "par" :  "Ey Rabbim, rahmetin adıyla sana dua ediyorum, gözlerimden onlara bir şey gösterme, sadece Sen'in gözünle göster ve ellerimden onlara bir şey almadan önce al, sadece Sen'in elinle al ve beni mutlu etmek için sevdiğim yerde beni bir araya getir.",
+            "likeNum" : 14,
+            "disLikeNum" : "",
+            "id" : 29
+        },
+        {
+            "header" : "Politik İslam ve Yaklaşan Savaş",
+            "par" :  "Zihnin işgali ve inancın bozulması, toprakların işgali ve kontrolünün başlangıcıdır ve bunlar birbirine bağlı halkalardır, biri diğerini alır.",
+            "likeNum" : 24,
+            "disLikeNum" : "",
+            "id" : 30
+        },
+        {
+            "header" : "Aşk ve Hayat Üzerine",
+            "par" :  "Bencilikle başa çıkmak bir günün değil, bir ömür ve hayat mücadelesi, ancak sevginin meyveleri yaşam mücadelesini hak eder...",
+            "likeNum" : 51,
+            "disLikeNum" : 2,
+            "id" : 31
+        },
+        {
+            "header" : "Politik İslam ve Yaklaşan Savaş",
+            "par" :  "Köktenci, çağımızdaki en büyük tehlikedir çünkü diyalogun ve anlaşmanın karşısındadır ve her zaman kendisini efendi ve diğer tarafı köle olarak görür ve efendi ve köle arasında diyalog mümkün değildir.",
+            "likeNum" : 55,
+            "disLikeNum" : 4,
+            "id" : 32
+        },
+        {
+            "header" : "Ateist Arkadaşımla Diyalog",
+            "par" : "Doğruyu yanlıştan, gerçeği yalandan, helâli haramdan ayırt etmek için hiçbir şeriat fakültesine ihtiyacımız yok... Çünkü Allah, her birimizin kalbine gerçeği ayırt eden bir şeriat fakültesi ve hata yapmayan bir ölçü yerleştirdi.",
+            "likeNum" : 41,
+            "disLikeNum" : 5,
+            "id" : 33
+        },
+        {
+            "header" : "Hayatın Gizemi",
+            "par" : "İnsan evreni kontrol etmeye başladı, ancak hala kendini kontrol edemiyor... Kolları ne kadar güçlü olursa olsun, merhamet kalbinden çekilir.",
+            "likeNum" : 38,
+            "disLikeNum" : 7,
+            "id" : 34
+        },
+        {
+            "header" : "Aşk ve Hayat Üzerine",
+            "par" : "Her zaman bir çözüm vardır, her zaman bir çıkış vardır, inanç olduğu sürece.",
+            "likeNum" : 66,
+            "disLikeNum" : "",
+            "id" : 35
+        },
+        {
+            "header" : "Aşk ve Hayat Üzerine",
+            "par" : "Eğer aşk alev gibi ise, insan her zaman kendi nefsinden bir şeyler yakmalıdır.",
+            "likeNum" : 81,
+            "disLikeNum" : 2,
+            "id" : 36
+        },
+        {
+            "header" : "Kabe'ye Yolculuk",
+            "par" : "Gerçek hazine, insanın çabalamaya değer olduğu hakiki hazinedir... Dönüşsüzlükten, uzunluktan, güçten, kibirden ve gururdan arınmış olmaktır... Hiçbir güç ve kuvvet Allah'tan başka değildir...",
+            "likeNum" : 40,
+            "disLikeNum" : 2,
+            "id" : 37
+        },
+        {
+            "header" : "Politik İslam ve Yaklaşan Savaş",
+            "par" : "Dinin amacı, saçlarınızı güldüren bir millet olmaktır, cahilliğinden gülen milletler.",
+            "likeNum" : 35,
+            "disLikeNum" : 5,
+            "id" : 38
+        },
+        {
+            "header" : "Maymunlar Çağı",
+            "par" : "Gerçekten ağlayacağımız şeylerden dolayı değil, Allah'ın gerçek değerini takdir etmediğimiz için ağlamalıyız...",
+            "likeNum" : 54,
+            "disLikeNum" : "",
+            "id" : 39
+        },
+        {
+            "header" : "Aşıkların İtirafları",
+            "par" : "Bir mektup yazmak hiç de çocuksu bir şey değildir çünkü kelime büyülüdür ve içimizde hapis kalan duygularımız herhangi bir kâğıda yazıldığında, derhal rahatlama buluruz ve dünyanın tüm yüklerinden kurtulmuş gibi oluruz.",
+            "likeNum" : 81,
+            "disLikeNum" : "",
+            "id" : 40
+        },
+        {
+            "header" : "Günah ve Masumiyet Şarkıları",
+            "par" : "Allah, verdiği kadar alır ve haram kıldığı kadar tazmin eder ve zorluk verdiği kadar kolaylaştırır ve her birimiz diğerinin kalbine girse, ona acır ve dengesiz dengelerin adaletini görebilir.",
+            "likeNum" : 71,
+            "disLikeNum" : "",
+            "id" : 41
+        },
+        {
+            "header" : "Aşkın 55 Sorunu",
+            "par" : "Her karakterin yöneten bir mantığı vardır... Ve karakteri davranışını değiştirir, ama mantığını değiştiremez... Çünkü mantığı onun özüdür ve ruhudur.",
+            "likeNum" : 45,
+            "disLikeNum" : 6,
+            "id" : 42
+        },
+        {
+            "header" : "Politik İslam ve Yaklaşan Savaş",
+            "par" : "Bu nedenle, köktencilik çağımızın en büyük tehlikesidir çünkü diyalogun ve anlayışın karşısındadır ve her zaman kendisini efendi ve diğer tarafı köle olarak görür ve efendi ve köle arasında diyalog mümkün değildir.",
+            "likeNum" : 13,
+            "disLikeNum" : 2,
+            "id" : 43
+        },
+        {
+            "header" : "Aşıkların İtirafları",
+            "par" : "İlk aşk hikayeleri anı için iyi bir malzeme olabilir ama hayat veya evlilik malzemesi olamazlar... Şu anda size gözyaşları getiriyor olabilirler, ama yarın size sadece tatlı bir gülümseme getireceklerdir.",
+            "likeNum" : 29,
+            "disLikeNum" : 1,
+            "id" : 44
+        },
+        {
+            "header" : "Allah'ın Dünyasında Gezginler",
+            "par" : "İslam'ın yeryüzünden bu Müslümanlara yapılan bu yok etmeyle yok olacağından korkanlar, size şunu söyleyeyim: Eğer bin milyon Müslümanı yok ederlerse ve bir tane kalsa, bu tek kişiyle İslam tekrar başlayacaktır.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 45
+        },
+        {
+            "header" : "Hayatın Gizemi",
+            "par" : "Gerçek mucize, düzeni bozmakta değil... Gerçek mucize, düzeni kurmaktadır. Evrenin mucizesi, sıkı düzenleyici yasalarla disipline edilmesindedir.",
+            "likeNum" : 32,
+            "disLikeNum" : 4,
+            "id" : 46
+        },
+        {
+            "header" : "Aşıkların İtirafları",
+            "par" : "Bugün sizi ağlatan şeyler, yarın size sadece tatlı bir gülümseme getirecek.",
+            "likeNum" : 17,
+            "disLikeNum" : "",
+            "id" : 47
+        },
+        {
+            "header" : "Örümcek",
+            "par" : "Biz sadece yaşamı sığdırabildiğimiz ve sığdıramadığımız şeyleri kabul ederiz... Bu kibir, çünkü görebildiğimiz şeyler çok az... Ve fark ettiğimiz şeyler bu dünyada çok az.",
+            "likeNum" : 30,
+            "disLikeNum" : 5,
+            "id" : 48
+        },
+        {
+            "header" : "Rüyalar",
+            "par" : "Biz, hayal ve gerçeğin garip bir dokusu... Gerçeklik ve hayal gücü arasında... Varlık ve yokluk arasında... Biz en büyük hayaliz... Ve en büyük acı... Ve en büyük sanatçılarımız en büyük acı çekenler... Çünkü hayaller hayatımızın malzemesidir.",
+            "likeNum" : 15,
+            "disLikeNum" : 2,
+            "id" : 49
+        },
+        {
+            "header" : "Ölüm Kapısının Ardında Ne Var?",
+            "par" : "Her birimiz, kendi nefsini eğitip yetiştirmeli, arındırmalı ve mücadele etmelidir, çünkü bu, mümin bireyin gerçek cihadıdır.",
+            "likeNum" : 54,
+            "disLikeNum" : "",
+            "id" : 50
+        },
+        {
+            "header" : "Allah'ı Gördüm",
+            "par" : "Allah, her güzellikte... Şafakta parıldayan... Akşam kızılında... Bir çiçeğin açılışında... Bir çocuğun masumiyetinde... Kuşların şakımasında... Geniş gözlerde, sevginin kadehleri gibi...",
+            "likeNum" : 74,
+            "disLikeNum" : "",
+            "id" : 51
+        },
+        {
+            "header" : "Maymunlar Çağı",
+            "par" : "Yolları birbirimize kolaylaştırmaktan daha fazlasını yapamayız...",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 52
+        },
+        {
+            "header" : "Rüyalar",
+            "par" : "Kaygının sırrı, dine sahip olmamamızdır... İnanca sahip olmamamızdır ve dinimiz sadece dışarıdan görülen şeylerden ibarettir; törenlerde söylenen kelimeler ve alışkanlıkla yapılan dualar...",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 53
+        },
+        {
+            "header" : "Allah'ın Dünyasında Gezginler",
+            "par" : "Terör, iki hedefe vurur: Turizm ve yatırım, Mısır ekonomisinin sinirleri ve terör, ustalıkla döndürülen bir entrika, ve biz, yüzde yüz Batılı bir endüstriyle karşı karşıyayız.",
+            "likeNum" : "",
+            "disLikeNum" : 2,
+            "id" : 54
+        },
+        {
+            "header" : "Deccal",
+            "par" : "Sahip olduğumuz her şey değerini kaybeder ve bakışlar sürekli olarak başkalarının sahip olduklarına doğru kayar.",
+            "likeNum" : 26,
+            "disLikeNum" : "",
+            "id" : 55
+        },
+        {
+            "header" : "Politik Palyaço Oyunları",
+            "par" : "Önce bilgi, sonra bilgi ve sonra tekrar bilgi... Ve öğrendiklerimizi uygulama... Ve daima azim... Ve ahlakın yüceliği ve ruhla doğruluk, en sonunda Allah ile doğruluk... İşte dinimiz.",
+            "likeNum" : 74,
+            "disLikeNum" : 5,
+            "id" : 56
+        },
+        {
+            "header" : "Ölüm Kapısının Ardında Ne Var?",
+            "par" : "Her birimiz, kendi nefsini eğitip yetiştirmeli, arındırmalı ve mücadele etmelidir, çünkü bu, mümin bireyin gerçek cihadıdır.",
+            "likeNum" : 54,
+            "disLikeNum" : "",
+            "id" : 57
+        },
+        {
+            "header" : "Ölümün Bilinmeyeni",
+            "par" : "Ve her bir durumumu yakaladığımda ve 'İşte bu benim' dediğimde, bu durum hemen parmaklarımdan kayıp gider ve yerini başka bir durum alır... O da benim... ",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 58
+        },
+        {
+            "header" : "Rüyalar",
+            "par" : "Endişenin sırrı, dinsiz yaşamamızdır... İmanımız olmadan ve dini sadece dışarıdan gösterişli kılan şeydir; özel günlerde söylenen sözler ve adetle yapılan dualar...",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 59
+        },
+        {
+            "header" : "Allah'ın Dünyasında Düşünceler",
+            "par" : "Allah, eskiden yaratıklarını elçiler ve peygamberlerle uyandırırdı... Ve şimdi onları felaketler, depremler, kasırgalar, sellerle uyandırır... Eğer bu uyarılarla bir şeyler yapmazlarsa, onları katliamlara ve savaşlara sürükler, birbirlerini yemelerine ve yok olmalarına neden olurlar.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 60
+        },
+        {
+            "header" : "Gülünecek Kadar Ağlayanlar",
+            "par" : "Neden dini tamamlamak ve insan soyunu tamamlamak bahanesiyle daha fazla aptal doğurmalıyız! Muhammed Ali",
+            "likeNum" : 16,
+            "disLikeNum" : 7,
+            "id" : 61
+        },
+        {
+            "header" : "Ölümün Gizemi",
+            "par" : "Dışarıdan bir sınırım var, bedenimde sona eren bir tavanım var... Ama içten tavanım yok... Ve bir taban yok...",
+            "likeNum" : 30,
+            "disLikeNum" : 3,
+            "id" : 62
+        },
+        {
+            "header" : "Sıfırın Altındaki Adam",
+            "par" : "Evet, şimdi Tanrı'nın var olduğunu biliyorum... O, maddi ilerlemenin kibrinden bizden gizlenen tek gerçek... Ve kurtuluşum yok... Sadece affetmeyle...",
+            "likeNum" : 40,
+            "disLikeNum" : "",
+            "id" : 63
+        },
+        {
+            "header" : "Allah'ın Dünyasında Düşünceler",
+            "par" : "Hayatı sadece madde olarak açıklayan her teori eksik bir bakış açısıdır.",
+            "likeNum" : 19,
+            "disLikeNum" : "",
+            "id" : 64
+        },
+        {
+            "header" : "En Büyük Sır",
+            "par" : "Efendiyle kölenin seçimi arasında ikilik veya çelişki yoktur... Çünkü efendi, kölenin kendisi için seçtiği şeyi seçti, böylece Tanrı'nın kaderi ve hükmü, kölenin özgürlüğünün ve doğasının gözü gibi oldu.",
+            "likeNum" : 59,
+            "disLikeNum" : 4,
+            "id" : 65
+        },
+        {
+            "header" : "Allah'ın Dünyasında Düşünceler",
+            "par" : "Her aşık, dudakları ve yanakları ile meşgul... Yanakların ve boynun öpülmesiyle hipnotize olmuş bir maddi put, gerçek sevgilisine ulaşılması gereken gerçek eli unutmuş...",
+            "likeNum" : 43,
+            "disLikeNum" : "",
+            "id" : 66
+        },
+        {
+            "header" : "Hayatın Sırrı",
+            "par" : "Bilimsel olarak ilerledikçe, kibirle dolup taşan ilerlemenin bizi daha çok üzen, sevindiren bir şeyden çok daha fazla olduğunu fark edebiliriz...",
+            "likeNum" : 83,
+            "disLikeNum" : 3,
+            "id" : 67
+        },
+        {
+            "header" : "Ruh ve Beden",
+            "par" : "Elimize geçen her şeyi dikkatle ve eleştirel bir zihinle okuyalım, çünkü bize zarar vermek için zehirler dolu ...",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 68
+        },
+        {
+            "header" : "Geleceği Okuma",
+            "par" : "Korku, korkanın hayatını korumaz... Çünkü gemi battığında, yöneten ve yönetilen herkesle birlikte battı... Ve neden korkmalı?!! Ve dünya başladığından beri, kimse ölümden muaf değil...",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 69
+        },
+        {
+            "header" : "Dünya'nın ve Ahiret'in Büyükleri",
+            "par" : "Bu Kudüs beyler, Rabbülâlemin etrafına bereket verdiği şehirdir... Ve bu üç dinin ebedi başkenti... Ve her dinin burada diğerleri gibi hak sahibi olduğu... Ve İsrail'in başkenti olamaz.",
+            "likeNum" : 65,
+            "disLikeNum" : "",
+            "id" : 70
+        },
+        {
+            "header" : "En Büyük Sır",
+            "par" : "Ve gerçek şu ki, tasavvuf mirası, inciler ve kabuklarla dolu derin bir denizdir, ama aynı zamanda timsahlar ve balinalarla doludur. Orada mercan adaları vardır ve gemilerin geri dönmediği ölümcül labirentler vardır.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 71
+        },
+        {
+            "header" : "Şüphe İçinden İmana Yolculuk",
+            "par" : "Hindistanlı düşünür Veyseluddin Han bize şöyle der: Eğer susuzluk suya işaret ediyorsa, adalete susamak da adalete işaret etmelidir... Ve çünkü dünyada adalet yok... O zaman bu, gerçek adaletin bulunduğu ahirete işaret eder.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 72
+        },
+        {
+            "header" : "Şüphe İçinden İmana Yolculuk",
+            "par" : "Bizim dünyamız, ondan önceki ve sonraki şeyler için iki ok arasında bırakılmış bir zaman dilimidir... O, tüm gerçeği veya hikayeyi değil... Sadece birçok bölümden biri...",
+            "likeNum" : 44,
+            "disLikeNum" : "",
+            "id" : 73
+        },
+        {
+            "header" : "Aşkın 55 Sorunu",
+            "par" : "İlk aşk hikayeleri hatıra için iyi bir malzeme olabilir... Ama hayat ve evlilik malzemesi olmaya uygun değildir.",
+            "likeNum" : 112,
+            "disLikeNum" : 8,
+            "id" : 74
+        },
+        {
+            "header" :"Sırların Dünyası",
+            "par" :"İman sahibi her zaman kalbinde huzurludur... Sakin bir ruha sahiptir... Ve onun hakim duyguları sevgi, merhamet, sabır, şükran, sabır, acıma, alçakgönüllülük, affetme, kabul ve rıza... ",
+            "likeNum" : 63,
+            "disLikeNum" : "",
+            "id" : 75
+        },
+        {
+            "header" : "Tufan",
+            "par" : "Tanrı'ya olan geminiz namaz halınınızdır... Bu harap dünyada tek güvenli nokta namaz halısıdır.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 76
+        },
+        {
+            "header" : "Şüphe İçinden İmana Yolculuk",
+            "par" : "Din ile bilim arasında çelişki yoktur, çünkü din kendisi tüm bilimleri içeren zorunlu bilginin son noktasıdır.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 77
+        },
+        {
+            "header" : "Şüphe İçinden İmana Yolculuk",
+            "par" : "Aşkta dürüstlük, çöllerde elmas kadar nadir bir şeydir ve gerçek dostların ahlaklarından gelir, insanların sıradan aldatıcı ahlakından değil.",
+            "likeNum" : 16,
+            "disLikeNum" : 3,
+            "id" : 78
+        },
+        {
+            "header" : "Depremin Eşiğinde",
+            "par" : "Akıllı olan, kalbiyle okuyan ve tehlikeden sakınan, iyilik yapar ve yaşlı kadınlara, yaşlılara ve çocuklara iyi davranır, iyiliği, sevgiyi, merhameti ve iyiliği yaydığında...",
+            "likeNum" : 16,
+            "disLikeNum" : 3,
+            "id" : 79
+        },
+        {
+            "header" : "Aşkın 55 Sorunu",
+            "par" : "Çoğu erkek için iffet hala bir rüya... -Evlilik istediklerinde-",
+            "likeNum" : 8,
+            "disLikeNum" : 1,
+            "id" : 80
+        },
+        {
+            "header" : "Gece Yarısı Notları",
+            "par" : "Sadece çocuklar, yetişkinler için utanç verici görünen soruları sorarlar, ama hiçbir yetişkin bilmez ve hiç kimse denemez ve hiç kimse düşünmez.",
+            "likeNum" : 19,
+            "disLikeNum" : "",
+            "id" : 81
+        },
+        {
+            "header" : "Kül Altındaki Ateş",
+            "par" : "Her gün sinema, müzik, televizyon, şarkı ve bankaların haram olduğunu ifade eden değerli alimler, hayatımızı açıkça küfür haline getiriyorlar, bu yüzden eğer inancımız varsa, dağların zirvesine göç etmekten başka seçeneğimiz yok!!!",
+            "likeNum" : 28,
+            "disLikeNum" : "",
+            "id" : 82
+        },
+        {
+            "header" : "Sırların Dünyası",
+            "par" : "Einstein derdi ki... Ne kadar çok bilgiye sahip olursam, cehaletim o kadar belirgin hale gelir. Ve işte gerçek bilimin başlangıcı budur... Tanrı ile mirasını devralan gerçek bilim.",
+            "likeNum" : "",
+            "disLikeNum" : "",
+            "id" : 83
+        },
+        {
+            "header" : "Şüphe İçinden İmana Yolculuk",
+            "par" : "Dürüstlük çok nadir bir şeydir... Ve gerçekten dürüst kişi neredeyse bulunmaz. Aslında, sabah uyandığımız anda ve ağzımızı açmadan önce bile yalan söylemeye başlıyoruz.",
+            "likeNum" : 76,
+            "disLikeNum" : 2,
+            "id" : 84
+        },
+        {
+            "header" : "Aşkın 55 Sorunu",
+            "par" : "Kadın ne kadar güzel, çekici ve etkileyici olursa olsun, erkeği evlenmeye ikna etmek için yeterli değildir, ancak bir aptal olursa.",
+            "likeNum" : 57,
+            "disLikeNum" : 8,
+            "id" : 85
+        },
+        {
+            "header": "Ruh ve Beden",
+            "par": "Mutluluk, para, güç veya iktidarda olamaz, ancak paranın, gücün ve iktidarın ne yaptığımızda olduğu ile ilgilidir.",
+            "likeNum": 41,
+            "disLikeNum": 5,
+            "id": 86
+        },
+        {
+            "header": "Küçük Cehennem",
+            "par": "Herkesin kendisinin haklı olduğunu düşünmeye meyilli olduğu bir gerçektir. Hakikat insan sayısı kadar çok kopyalanmıştır.",
+            "likeNum": 11,
+            "disLikeNum": "",
+            "id": 87
+        },
+        {
+            "header": "Evimizdeki Şeytan",
+            "par": "Varlığımızı geçici bedenler olarak değil, ölümsüz ruhlar olarak kabul etmeliyiz, heva ve hevesler tarafından köleleştirilen bedenler olarak değil.",
+            "likeNum": 14,
+            "disLikeNum": 2,
+            "id": 88
+        },
+        {
+            "header": "Lider",
+            "par": "Atlılık sadece bir şiir midir? Şairin kalbi kaybolduğunda, geriye sadece kasap, katil ve cellat kalır... Biz Abdülcelil sevgilileri değil, ölüme kadar sevdiğimiz topraklarız.",
+            "likeNum": 14,
+            "disLikeNum": 2,
+            "id": 89
+        },
+        {
+            "header": "Şüphe İçinden İmana Yolculuk",
+            "par": "Bu tür zalimler için Tanrı'nın bir çay partisi düzenlemesi mi gerekiyor çünkü Tanrı sevgidir mi?! Aksine, cennet, adaletin bir yolu olmadığı sürece sevginin sonudur.",
+            "likeNum": 37,
+            "disLikeNum": "",
+            "id": 90
+        },
+        {
+            "header": "Geri Sayım Başladı",
+            "par": "Gizli savaş... Artık kimse Arap-İsrail çatışmasından bahsetmiyor. Bu çatışma örtülü ve başka bir çatışmanın arkasına gizlendi... Arap-Arap çatışması ve İslami İslam çatışması.",
+            "likeNum": "",
+            "disLikeNum": "",
+            "id": 91
+        },
+        {
+            "header": "Aşkın 55 Sorunu",
+            "par": "Henüz hiçbir anayasanın içinde bulunmayan bir hak istiyorsun, hata yapma hakkını istiyorsun.",
+            "likeNum": 7,
+            "disLikeNum": "",
+            "id": 92
+        },
+        {
+            "header": "Ateistsel Arkadaşımla Diyalog",
+            "par": "Allah'ın kılavuzunda ve sünnetinde, acı içinde özgürlük, mutluluk içinde köleliğe tercih edilir.",
+            "likeNum": "",
+            "disLikeNum": "",
+            "id": 93
+        },
+        {
+            "header": "Ateistsel Arkadaşımla Diyalog",
+            "par": "Bunlar cenneti isteyenlerdir. Onu hak etmek için ne yaptılar?",
+            "likeNum": 20,
+            "disLikeNum": "",
+            "id": 94
+        },
+        {
+            "header": "Ekmek Yemek",
+            "par": "Bir anlık heyecan istiyorum... Bir anlık aşk... Bir anlık şaşkınlık... Bir anlık keşif... Bir anlık bilgi... Hayatımın bir anını istiyorum ki, hayatımın anlamı olsun... Çünkü hayatım sadece devam etmekten ibaret değil.",
+            "likeNum": 23,
+            "disLikeNum": "",
+            "id": 95
+        },
+        {
+            "header": "İslam Nedir?",
+            "par": "Allah, onların yakıştırdıklarından yücedir. O, tarif edilemez... Kendini tanımlamış olsa bile, anlayışımızın onu kavraması için bir indirim olarak ortaya çıkar... Kendi adını ancak bizim onu çağırmamız için bir indirim olarak vermiştir.",
+            "likeNum": 12,
+            "disLikeNum": "",
+            "id": 96
+        },
+        {
+            "header": "Ateist Arkadaşımla Diyalog",
+            "par": "Allah'ın kitabında eylemleriniz bilinir, ancak bunları zorlayamazsınız, sadece bilgisi içinde önceden belirlenmiştir, sizin de oğlunuzun zina yapacağını bilmek gibi, sonra gerçekten zina yaparsa.. Onu zorladın mı??",
+            "likeNum": 4,
+            "disLikeNum": "",
+            "id": 97
+        },
+        {
+            "header": "Ateist Arkadaşımla Diyalog",
+            "par": "Adalet arzumuz, adaletin varlığının bir kanıtıdır.",
+            "likeNum": 33,
+            "disLikeNum": "",
+            "id": 98
+        },
+        {
+            "header": "Politik Sirkin Oyunları",
+            "par": "Ülkemiz, hayalleri, hazine ve efsaneleriyle dünyanın en zengin ülkelerinden biridir... Ancak, geleneksel olmayan bir düşünce gereklidir ve yaratıcı zihniyetler ve esnek politikalar gereklidir. \"Mısır'daki Turizm",
+            "likeNum": 45,
+            "disLikeNum": 2,
+            "id": 99
+        },
+        {
+            "header": "Günah ve Masumiyetin Ezgileri",
+            "par": "Hiçbir hayal gerçek gibi görünmez, aşk gibi, ve ölüm gibi işlediğimiz gerçek gibi işlemeyen hiçbir gerçek yoktur.",
+            "likeNum": 61,
+            "disLikeNum": "",
+            "id": 100
+        },
+        {
+            "header": "Ateist Arkadaşımla Diyalog",
+            "par": "Namazı bırakan ve içkiye düşkün olanın şeytana ihtiyacı yoktur.",
+            "likeNum": 18,
+            "disLikeNum": "",
+            "id": 101
+        },
+        {
+            "header": "Sıfırın Altındaki Adam",
+            "par": "Manyetik alan çizgileri... Bunlar, herhangi bir mıknatısın çevresindeki sanal varsayımsal çizgilerdir, görünmez, duyulmaz, dokunulmaz ve hissedilmezler ve bir aracıya ihtiyaç duymazlar, bu varsayımsal şeyler gerçek mi?",
+            "likeNum": 7,
+            "disLikeNum": "",
+            "id": 102
+        },
+        {
+            "header": "Ateist Arkadaşımla Diyalog",
+            "par": "Tanrı'nın gücünde hepimizi iyi yapabilirdi ve bu, itaati zorlamak için bizi ezmek anlamına gelirdi ve bu, seçme özgürlüğümüzü elinden almak anlamına gelirdi.",
+            "likeNum": "",
+            "disLikeNum": "",
+            "id": 103
+        },
+        {
+            "header": "Siyasi İslam ve Gelecek Savaş",
+            "par": "Arap halkları doğal olarak birbirlerinin dostudur, ancak hükümetler, söyledikleri ve yaptıkları ile düşmanlıklar yaratır ve düşmanlıkları kışkırtır ve bunu şuna karşı şu ile destekler ve bunu bununla destekler.",
+            "likeNum": 66,
+            "disLikeNum": "",
+            "id": 104
+        }
+
+]
+    
+}

@@ -1,0 +1,316 @@
+.detailSec{
+    width: 100%;
+    height: 340vh;
+    background-color: rgba(255, 255, 255, 0.087);
+}
+.detailCon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    padding: 15vh 0 
+}
+.headerHrOne{
+    position: relative;
+    height: 6vh;
+    border: 0.5px solid rgba(0, 0, 0, 0.073);
+    top: -15vh;
+    right: 75vh;
+}
+.headerHrTwo{
+    position: relative;
+    border: 0.5px solid rgba(0, 0, 0, 0.073);
+    top: -21vh;
+    right: 87vh;
+    height: 6vh;
+}
+.headerHrThree{
+    position: relative;
+    top: -21vh;
+    width: 100%;
+    border: 0.5px solid rgba(0, 0, 0, 0.073);
+}
+.headerIcon {
+    position: absolute;
+    top: 0%;
+    left: 10.8%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+.headerIcon i{
+    padding: 12px 13px;
+    text-align: center;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.645);
+    cursor: pointer;
+    transform: scale();
+}
+.headerIcon i:nth-child(1):hover {
+    background-color: #1877F2;
+    color: rgb(240, 242, 255);
+    transition: 0.5s ease;
+}
+.headerIcon i:nth-child(2):hover {
+    background-color: rgb(0, 195, 255);
+    color: aliceblue;
+    transition: 0.3s ease;
+}
+.headerBook{
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.073);
+    margin-top: -5vh;
+}
+.headerBook div{
+    text-align: right;
+    display: flex;
+    justify-content: end;
+    margin-right: 7vh;
+    margin-top: 3vh;
+    
+}
+.headerBook div p{
+    font-size: 17px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.603);
+    padding-left: 8px;
+}
+.headerBook span{
+    font-size: 10px;
+    color:rgba(0, 0, 0, 0.318);
+    padding-left: 10px;
+    padding-top: 6px;
+
+}
+.headerBook .homeBack{
+    text-decoration: none;
+}
+.detailCon h3{
+    font-size: 23px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.704);
+    position: absolute;
+    right: 45vh;
+    margin-top: 30vh;
+}
+.hrDetail{
+    position: absolute;
+    right: 40vh;
+    top: 32.3vh;
+    height: 290vh;
+    border: 1px solid rgba(0, 0, 0, 0.086);
+}
+.oneHrDetail{
+    position: absolute;
+    right: 45vh;
+    width: 14vh;
+    border: 1px solid rgba(0, 0, 0, 0.157);
+    top: 44vh;
+}
+.detail{
+    display: flex;
+    justify-content: space-between;
+}
+.detailBook{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    position:absolute;
+    right: 85vh;
+    top: 50vh;
+}
+.detailBook p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.705);
+    margin-bottom: 16px;
+    text-align: center;
+    position: relative;   
+}
+.detailBook i{
+  position: absolute;
+  right: 1%;
+  color: rgb(0, 191, 255);
+  font-size: 14px;
+  padding-top: 6px;
+}
+.detailBook b{
+    font-size: 18px;
+}
+.detailBook span{
+    padding-left: -5px;
+    padding-right: 20px;
+    text-align: center;
+}
+.buttonDetail button{
+    width: 52vh;
+    height: 8vh;
+    text-decoration: none;
+    background-color: rgb(0, 187, 255);
+    border-radius: 3px;
+    border-style: none;
+    position: absolute;
+    right: 40vh;
+    top: 33vh;
+    font-size: 24px;
+    color: aliceblue;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    transform: scale();
+}
+.buttonDetail button:hover{
+    background-color: rgba(0, 0, 0, 0.761);
+    transition: 0.5s ease;
+}
+.buttonDetail button span i{
+    position: absolute;
+    right: 0;
+    top: 2%;
+    background-color: rgb(0, 119, 255);
+    padding: 11px;
+}
+.buttonDetail button:hover span i{
+    background-color: rgba(0, 0, 0, 0.84);
+    transition: 0.5s ease;
+}
+.imgDetail{
+    width: 35vh;
+    height: 48.5vh;
+    position: absolute;
+    top: 48vh;
+    right: 44vh;
+    border: 1px solid rgba(0, 0, 0, 0.214);
+    border-radius: 6px;
+}
+.detail img{
+    width: 33.5vh;
+    height: 47vh;
+    margin:3px ;
+    border-radius: 5px;
+}
+.bookDesc{
+    position: absolute;
+    top: 120vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hrDescOne{
+    width: 150vh;
+    margin-right: 20vh;
+    border: 0.1px solid rgba(0, 0, 0, 0.099);
+}
+.bookDesc h6{
+position: absolute;
+right: 20vh;
+color: rgba(0, 0, 0, 0.677);
+font-size: 22px;
+font-weight: 600;
+margin-top: 2vh;
+margin-bottom: 2vh;
+}
+.bookDesc p{
+    position: absolute;
+    right: 20vh;
+    color: rgba(0, 0, 0, 0.677);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 13vh;
+    width: 85%;
+    text-align: right;
+    line-height: 8vh;
+}
+.Rights{
+  font-size: 17px;
+  position: absolute;
+  right: 0%;
+  padding: 12px;
+  background-color: rgba(0, 0, 0, 0.743);
+  width: 100%;
+  text-align: center;
+  color: rgba(240, 248, 255, 0.64);
+}
+.detailBook{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.detailBook i{
+    color: #1877F2;
+    padding-left: 40px;
+    text-align: center;
+    display: inline;
+    align-items: center;
+    flex-direction: column;
+}
+.detailBook span{
+    padding-right: 20px;
+}
+.detailBook b{
+    font-size: 13px;
+    position: relative;
+    right: 3vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+.detailBook strong{
+    color: #1877F2;
+}
+#endKat{
+    position:relative;
+    left: -35%;
+}
+#theEndCat{
+    position:relative;
+    left: -28%;
+}
+#dotEndCat{
+    position:relative;
+    left: -34%;
+}
+.one{
+    margin-bottom: 20px;
+}
+
+.shareBook{
+    width: 52vh;
+    height: 8vh;
+    text-decoration: none;
+    background-color:#1877F2;
+    border-radius: 3px;
+    border-style: none;
+    position: absolute;
+    right: 84vh;
+    top: 91vh;
+    font-size: 24px;
+    color: aliceblue;
+    font-weight: 600;
+    text-align: center;   
+}
+.shareBook p{
+    position: absolute;
+    right: 2%;
+    top: 23%;
+    font-size: 15px;
+    font-weight: 700;
+}
+.newLinks{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+.newLinks i{
+    padding-left: 8px;
+    padding-right: 12px;
+    cursor: pointer;
+
+} 
+
