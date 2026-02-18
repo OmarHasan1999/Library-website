@@ -5,14 +5,6 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Project Setup
 
 ```sh
@@ -31,10 +23,20 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+---
 
-```sh
-npm run lint
+## Run with Docker
+
+***If you to run using Docker, follow these steps :***
+
+### 1️⃣ Build and start the containers
+
+```
+docker compose up --build
 ```
 
-# library-website
+> The application will be available at : http://localhost:5173
+
+### 2️⃣ Stop containers
+```
+docker compose down
