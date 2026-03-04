@@ -45,7 +45,7 @@ docker compose down
 
 ### Run with Docker (Without Cloning the Repo)
 
-***if you just want to run the app and have Docker installed, without downloading the code:***
+***If you want to run the app directly with Docker, without cloning the repository::***
 
 ### 1️⃣ Pull the Docker image from Docker Hub
 ```
@@ -54,6 +54,6 @@ docker pull m1234x/library-website:latest
 
 ### 2️⃣ Run the Docker container
 ```
-docker run -p 5173:5173 m1234x/library-website:latest
+docker run -d -p 80:80 --name library-website m1234x/library-website:latest
 ```
-> The application will be available at : http://localhost:5173
+> The application will be available at : http://localhost
