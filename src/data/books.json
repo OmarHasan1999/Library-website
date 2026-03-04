@@ -3,7 +3,7 @@
      "books": [
        {
          "stars": "(92)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookOne.webp",
+         "img": "/books-images/bookOne.webp",
          "title": "Ruh ve Beden",
          "pageNum": "117",
          "year": "1973",
@@ -15,7 +15,7 @@
        },
        {
          "stars": "(285)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookTwo.jpg",
+         "img": "/books-images/bookTwo.jpg",
          "title": "Kur'an'ın Sırları",
          "pageNum": "92",
          "year": "1977",
@@ -27,7 +27,7 @@
        },
        {
          "stars": "(61)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookThree.jpg",
+         "img": "/books-images/bookThree.jpg",
          "title": "Einstein ve İzafiyet",
          "pageNum": "105",
          "year": "1961",
@@ -39,7 +39,7 @@
        },
        {
          "stars": "(77)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookFour.webp",
+         "img": "/books-images/bookFour.webp",
          "title": "Gece Yarısı Günlüğü",
          "pageNum": "57",
          "year": "1966",
@@ -51,7 +51,7 @@
        },
        {
          "stars": "(36)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookFive.jpg",
+         "img": "/books-images/bookFive.jpg",
          "title": "Marksizm ve İslam",
          "pageNum": "79",
          "year": "1975",
@@ -63,7 +63,7 @@
        },
        {
          "stars": "(51)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookSix.jpg",
+         "img": "/books-images/bookSix.jpg",
          "title": "Örümcek",
          "pageNum": "50",
          "year": "1965",
@@ -75,7 +75,7 @@
        },
        {
          "stars": "(43)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookSeven.jpg",
+         "img": "/books-images/bookSeven.jpg",
          "title": "Ateist Dostumla Diyalog",
          "pageNum": "130",
          "year": "1986",
@@ -87,7 +87,7 @@
        },
        {
          "stars": "(60)",
-         "img": "../../../../../../../../../src/assets/booksImg/bookEight.webp",
+         "img": "/books-images/bookEight.webp",
          "title": "Sıfırın Altındaki Adam",
          "pageNum": "97",
          "year": "1993",
@@ -99,7 +99,7 @@
        },
        {
           "stars": "(17)",
-          "img": "../../../../../../../../../src/assets/booksImg/bookNine.jpg",
+          "img": "/books-images/bookNine.jpg",
           "title": "Lider",
           "pageNum": "50",
           "year": "1990",
@@ -111,7 +111,7 @@
         },
         {
           "stars": "(11)",
-          "img": "../../../../../../../../../src/assets/booksImg/bookTen.jpg",
+          "img": "/books-images/bookTen.jpg",
           "title": "Rüyalar",
           "pageNum": "206",
           "year": "1961",
@@ -123,7 +123,7 @@
         },
         {
           "stars": "(61)",
-          "img": "../../../../../../../../../src/assets/booksImg/bookEleven.webp",
+          "img": "/books-images/bookEleven.webp",
           "title": "Ağlayana Kadar Gülenler",
           "pageNum": "52",
           "year": "1997",
@@ -135,7 +135,7 @@
         },
         {
           "stars": "(8)",
-          "img": "../../../../../../../../../src/assets/booksImg/a42ad46c43021582aec9e16f4f2b1815.jpeg.webp",
+          "img": "/books-images/a42ad46c43021582aec9e16f4f2b1815.jpeg.webp",
           "title": "Ölümün Sırrı",
           "pageNum": "84",
           "year": "1959",
@@ -147,7 +147,7 @@
         },
         {
           "stars": "(36)",
-          "img": "../../../../../../../../../src/assets/booksImg/BOOK0152-155x230.webp",
+          "img": "/books-images/BOOK0152-155x230.webp",
           "title": "Günah ve Masumiyet Şiirleri",
           "pageNum": "51",
           "year": "1998",
@@ -159,7 +159,7 @@
         },
         {
           "stars": "(8)",
-          "img": "../../../../../../../../../src/assets/booksImg/662c7d4be00339da8034cf7bc678cf09.PNG.webp",
+          "img": "/books-images/662c7d4be00339da8034cf7bc678cf09.PNG.webp",
           "title": "İslam Nedir?",
           "pageNum": "159",
           "year": "1979",
@@ -171,7 +171,7 @@
         },
         {
           "stars" : "(9)" ,
-          "img" : "../../../../../../../../../src/assets/booksImg/إعترافات-عشاق.jpg",
+          "img" : "/books-images/إعترافات-عشاق.jpg",
           "title" : "Aşıkların İtirafları",
           "pageNum" : "267",
           "year" :"1966",
@@ -183,7 +183,7 @@
      },
      {
           "stars" : "(2)" ,
-          "img" : "../../../../../../../../../src/assets/booksImg/رأيت الله.jpg",
+          "img" : "/books-images/رأيت الله.jpg",
           "title" : "Tanrıyı Gördüm",
           "pageNum" : "76",
           "year" :"1992",
@@ -195,7 +195,7 @@
      },
      {
           "stars" : "(11)" ,
-          "img" : "../../../../../../../../../src/assets/booksImg/513T0nnY-0L.jpg",
+          "img" : "/books-images/513T0nnY-0L.jpg",
           "title" : "Zelzele'nin Kenarında",
           "pageNum" : "156",
           "year" :"2002",
@@ -207,7 +207,7 @@
      },
      {
           "stars" : "(2)" ,
-          "img" : "../../../../../../../../../src/assets/booksImg/28257.jpg",
+          "img" : "/books-images/28257.jpg",
           "title" : "Çölde Macera",
           "pageNum" : "53",
           "year" :"1994",
@@ -219,7 +219,7 @@
      },
      {
           "stars" : "(21)" ,
-          "img" : "../../../../../../../../../src/assets/booksImg/227854.jpg",
+          "img" : "/books-images/227854.jpg",
           "title" : "İsrail: Başlangıcı ve Sonu",
           "pageNum" : "75",
           "year": "1997",
@@ -231,7 +231,7 @@
      },
      {
           "stars": "()",
-          "img": "../../../../../../../../../src/assets/booksImg/6234709.jpg",
+          "img": "/books-images/6234709.jpg",
           "title": "Büyük Komplolar",
           "pageNum": "186",
           "year": "1993",
@@ -243,7 +243,7 @@
         },
         {
           "stars": "(30)",
-          "img": "../../../../../../../../../src/assets/booksImg/1486070498.jpg",
+          "img": "/books-images/1486070498.jpg",
           "title": "Tanrı ve İnsan",
           "pageNum": "134",
           "year": "1955",
@@ -255,7 +255,7 @@
         },
         {
           "stars": "(17)",
-          "img": "../../../../../../../../../src/assets/booksImg/A11B3gZ8k3L._AC_UF894,1000_QL80_.jpg",
+          "img": "/books-images/A11B3gZ8k3L._AC_UF894,1000_QL80_.jpg",
           "title": "İntihar Eşiğinde",
           "pageNum": "88",
           "year": "1996",
@@ -267,7 +267,7 @@
         },
         {
           "stars": "(66)",
-          "img": "../../../../../../../../../src/assets/booksImg/202206232051_0015.webp",
+          "img": "/books-images/202206232051_0015.webp",
           "title": "Varlık ve Hiçlik",
           "pageNum": "92",
           "year": "1977",
@@ -279,7 +279,7 @@
         },
         {
           "stars": "(21)",
-          "img": "../../../../../../../../../src/assets/booksImg/13412503.jpg",
+          "img": "/books-images/13412503.jpg",
           "title": "Afyon",
           "pageNum": "49",
           "year": "1964",
@@ -291,7 +291,7 @@
         },
         {
           "stars": "(41)",
-          "img": "../../../../../../../../../src/assets/booksImg/aSv28G6eTNm5cJo6ZXTAZWQYzW0M4jhQDTQznAzx.webp",
+          "img": "/books-images/aSv28G6eTNm5cJo6ZXTAZWQYzW0M4jhQDTQznAzx.webp",
           "title": "Şeytan Evinde Oturuyor",
           "pageNum": "95",
           "year": "1998",
@@ -303,7 +303,7 @@
         },
         {
           "stars": "(7)",
-          "img": "../../../../../../../../../src/assets/booksImg/8875737.jpg",
+          "img": "/books-images/8875737.jpg",
           "title": "Büyük İskender",
           "pageNum": "54",
           "year": "1963",
@@ -315,7 +315,7 @@
         },
         {
           "stars": "(41)",
-          "img": "../../../../../../../../../src/assets/booksImg/تنزيل.jpg",
+          "img": "/books-images/تنزيل.jpg",
           "title": "Yanan Gelecek",
           "pageNum": "212",
           "year": "1998",
@@ -327,7 +327,7 @@
         },
         {
           "stars": "(4)",
-          "img": "../../../../../../../../../src/assets/booksImg/اكذوبة-اليسار-الاسلامي.jpg",
+          "img": "/books-images/اكذوبة-اليسار-الاسلامي.jpg",
           "title": "İslami Solun Yalanı",
           "pageNum": "44",
           "year": "1978",
@@ -339,7 +339,7 @@
         },
         {
           "stars": "(4)",
-          "img": "../../../../../../../../../src/assets/booksImg/إبليس.jpg",
+          "img": "/books-images/إبليس.jpg",
           "title": "İblis",
           "pageNum": "95",
           "year": "1958",
@@ -351,7 +351,7 @@
         },
         {
           "stars": "(17)",
-          "img": "../../../../../../../../../src/assets/booksImg/الشفاعة.jpg",
+          "img": "/books-images/الشفاعة.jpg",
           "title": "Şefaat",
           "pageNum": "116",
           "year": "2000",
@@ -363,7 +363,7 @@
         },
         {
           "stars": "(11)",
-          "img": "../../../../../../../../../src/assets/booksImg/عنبر 7.jpg",
+          "img": "/books-images/عنبر 7.jpg",
           "title": "Amber 7",
           "pageNum": "82",
           "year": "1957",
@@ -375,7 +375,7 @@
         },
         {
           "stars": "(61)",
-          "img": "../../../../../../../../../src/assets/booksImg/محمد.jpg",
+          "img": "/books-images/محمد.jpg",
           "title": "Muhammed",
           "pageNum": "101",
           "year": "1975",
@@ -387,7 +387,7 @@
         },
         {
           "stars": "(38)",
-          "img": "../../../../../../../../../src/assets/booksImg/حقيقة البهائية.jpg",
+          "img": "/books-images/حقيقة البهائية.jpg",
           "title": "Bahai Gerçeği",
           "pageNum": "281",
           "year": "1984",
@@ -399,7 +399,7 @@
         },
         {
           "stars": "(41)",
-          "img": "../../../../../../../../../src/assets/booksImg/هل هو عصر الجنون؟.jpg",
+          "img": "/books-images/هل هو عصر الجنون؟.jpg",
           "title": "Delilik Zamanı Mı?",
           "pageNum": "108",
           "year": "1982",
@@ -411,7 +411,7 @@
         },
         {
           "stars": "(77)",
-          "img": "../../../../../../../../../src/assets/booksImg/جهنم الصغرى.jpg",
+          "img": "/books-images/جهنم الصغرى.jpg",
           "title": "Küçük Cehennem",
           "pageNum": "42",
           "year": "1982",
@@ -423,7 +423,7 @@
         },
         {
           "stars": "(24)",
-          "img": "../../../../../../../../../src/assets/booksImg/تأملات في دنيا الله.jpg",
+          "img": "/books-images/تأملات في دنيا الله.jpg",
           "title": "Allah'ın Dünyasında Düşünceler",
           "pageNum": "127",
           "year": "2002",
@@ -435,7 +435,7 @@
         },
         {
           "stars": "(71)",
-          "img": "../../../../../../../../../src/assets/booksImg/الخروج من التابوت.jpg",
+          "img": "/books-images/الخروج من التابوت.jpg",
           "title": "Tabuttan Çıkış",
           "pageNum": "71",
           "year": "1965",
@@ -447,7 +447,7 @@
         },
         {
           "stars": "(51)",
-          "img": "../../../../../../../../../src/assets/booksImg/الإسلام في خندق.jpg",
+          "img": "/books-images/الإسلام في خندق.jpg",
           "title": "İslam Siperde",
           "pageNum": "165",
           "year": "1994",
@@ -459,7 +459,7 @@
         },
         {
           "stars": "(29)",
-          "img": "../../../../../../../../../src/assets/booksImg/رائحة الدم.jpg",
+          "img": "/books-images/رائحة الدم.jpg",
           "title": "Kan Kokusu",
           "pageNum": "109",
           "year": "1966",
@@ -471,7 +471,7 @@
         },
         {
           "stars": "(16)",
-          "img": "../../../../../../../../../src/assets/booksImg/الإنسان والظل.jpg",
+          "img": "/books-images/الإنسان والظل.jpg",
           "title": "İnsan ve Gölgeler",
           "pageNum": "46",
           "year": "1964",
@@ -483,7 +483,7 @@
         },
         {
           "stars": "(81)",
-          "img": "../../../../../../../../../src/assets/booksImg/نقطة الغليان.jpg",
+          "img": "/books-images/نقطة الغليان.jpg",
           "title": "Kaynama Noktası",
           "pageNum": "55",
           "year": "1977",
@@ -495,7 +495,7 @@
         },
         {
           "stars": "(17)",
-          "img": "../../../../../../../../../src/assets/booksImg/ماذا وراء بوابة الموت.jpg",
+          "img": "/books-images/ماذا وراء بوابة الموت.jpg",
           "title": "Ölüm Kapısının Ardındakiler",
           "pageNum": "144",
           "year": "1999",
@@ -507,7 +507,7 @@
         },
         {
           "stars": "(4)",
-          "img": "../../../../../../../../../src/assets/booksImg/إسرائيل النازية ولغة المحرقة.jpg",
+          "img": "/books-images/إسرائيل النازية ولغة المحرقة.jpg",
           "title": "Nazi İsrail ve Soykırımın Dili",
           "pageNum": "87",
           "year": "2001",
@@ -519,7 +519,7 @@
         },
         {
           "stars": "(23)",
-          "img": "../../../../../../../../../src/assets/booksImg/زيارة للجنة والنار.jpg",
+          "img": "/books-images/زيارة للجنة والنار.jpg",
           "title": "Cennet ve Cehenneme Ziyaret",
           "pageNum": "70",
           "year": "1996",
@@ -531,7 +531,7 @@
         },
         {
           "stars": "(48)",
-          "img": "../../../../../../../../../src/assets/booksImg/الغابة.jpg",
+          "img": "/books-images/الغابة.jpg",
           "title": "Orman",
           "pageNum": "129",
           "year": "1963",
@@ -543,7 +543,7 @@
         },
         {
           "stars": "(35)",
-          "img": "../../../../../../../../../src/assets/booksImg/على خط النار.jpg",
+          "img": "/books-images/على خط النار.jpg",
           "title": "Ateş Hattında",
           "pageNum": "75",
           "year": "2001",
@@ -555,7 +555,7 @@
         },
         {
           "stars": "(18)",
-          "img": "../../../../../../../../../src/assets/booksImg/ألعاب السيرك السياسي.jpg",
+          "img": "/books-images/ألعاب السيرك السياسي.jpg",
           "title": "Politik Sirkin Oyunları",
           "pageNum": "120",
           "year": "1991",
@@ -567,7 +567,7 @@
         },
         {
           "stars": "(51)",
-          "img": "../../../../../../../../../src/assets/booksImg/عظماء الدنيا وعظماء الآخرة.jpg",
+          "img": "/books-images/عظماء الدنيا وعظماء الآخرة.jpg",
           "title": "Dünyanın Büyükleri ve Ahiretin Büyükleri",
           "pageNum": "149",
           "year": "1996",
@@ -579,7 +579,7 @@
         },
         {
           "stars": "(62)",
-          "img": "../../../../../../../../../src/assets/booksImg/التوراة.jpg",
+          "img": "/books-images/التوراة.jpg",
           "title": "Tevrat",
           "pageNum": "96",
           "year": "1972",
@@ -591,7 +591,7 @@
         },
         {
           "stars": "(21)",
-          "img": "../../../../../../../../../src/assets/booksImg/الإسلام السياسي والمعركة القادمة.jpg",
+          "img": "/books-images/الإسلام السياسي والمعركة القادمة.jpg",
           "title": "Politik İslam ve Gelecek Savaş",
           "pageNum": "141",
           "year": "1992",
@@ -603,7 +603,7 @@
         },
         {
           "stars": "(34)",
-          "img": "../../../../../../../../../src/assets/booksImg/سقوط اليسار.jpg",
+          "img": "/books-images/سقوط اليسار.jpg",
           "title": "Solun Düşüşü",
           "pageNum": "112",
           "year": "1978",
@@ -615,7 +615,7 @@
         },
         {
           "stars": "(44)",
-          "img": "../../../../../../../../../src/assets/booksImg/55 مشكلة حب.jpg",
+          "img": "/books-images/55 مشكلة حب.jpg",
           "title": "55 Aşk Sorunu",
           "pageNum": "92",
           "year": "1966",
@@ -627,7 +627,7 @@
         },
         {
           "stars": "(57)",
-          "img": "../../../../../../../../../src/assets/booksImg/الطريق إلى جهنم.jpg",
+          "img": "/books-images/الطريق إلى جهنم.jpg",
           "title": "Cehenneme Giden Yol",
           "pageNum": "174",
           "year": "1994",
@@ -639,7 +639,7 @@
         },
         {
           "stars": "(55)",
-          "img": "../../../../../../../../../src/assets/booksImg/الله.jpg",
+          "img": "/books-images/الله.jpg",
           "title": "Tanrı",
           "pageNum": "50",
           "year": "1972",
@@ -651,7 +651,7 @@
         },
         {
           "stars": "(25)",
-          "img": "../../../../../../../../../src/assets/booksImg/عصر القرود.jpg",
+          "img": "/books-images/عصر القرود.jpg",
           "title": "Maymunlar Çağı",
           "pageNum": "91",
           "year": "1978",
@@ -663,7 +663,7 @@
         },
         {
           "stars": "(25)",
-          "img": "../../../../../../../../../src/assets/booksImg/من أمريكا إلى الشاطئ الآخر.jpg",
+          "img": "/books-images/من أمريكا إلى الشاطئ الآخر.jpg",
           "title": "Amerika'dan Diğer Kıyıya",
           "pageNum": "58",
           "year": "1982",
@@ -675,7 +675,7 @@
         },
         {
           "stars": "(37)",
-          "img": "../../../../../../../../../src/assets/booksImg/كلمة السر.jpg",
+          "img": "/books-images/كلمة السر.jpg",
           "title": "Anahtar Kelime",
           "pageNum": "164",
           "year": "1998",
@@ -687,7 +687,7 @@
         },
         {
           "stars": "(37)",
-          "img": "../../../../../../../../../src/assets/booksImg/علم نفس قرآني جديد.jpg",
+          "img": "/books-images/علم نفس قرآني جديد.jpg",
           "title": "Yeni Kuran Psikolojisi",
           "pageNum": "172",
           "year": "1998",
@@ -699,7 +699,7 @@
         },
         {
           "stars": "(49)",
-          "img": "../../../../../../../../../src/assets/booksImg/شلة الأنس.jpg",
+          "img": "/books-images/شلة الأنس.jpg",
           "title": "Dostlar Grubu",
           "pageNum": "65",
           "year": "1964",
@@ -711,7 +711,7 @@
         },
         {
           "stars": "(18)",
-          "img": "../../../../../../../../../src/assets/booksImg/السر الأعظم.jpg",
+          "img": "/books-images/السر الأعظم.jpg",
           "title": "Büyük Sır",
           "pageNum": "125",
           "year": "1975",
@@ -723,7 +723,7 @@
         },
         {
           "stars": "(38)",
-          "img": "../../../../../../../../../src/assets/booksImg/القرآن محاولة لفهم عصري.jpg",
+          "img": "/books-images/القرآن محاولة لفهم عصري.jpg",
           "title": "Kur'an: Modern Anlayış Denemesi",
           "pageNum": "68",
           "year": "1969",
@@ -735,7 +735,7 @@
         },
         {
           "stars": "",
-          "img": "../../../../../../../../../src/assets/booksImg/لماذا رفضت الماركسية.jpg",
+          "img": "/books-images/لماذا رفضت الماركسية.jpg",
           "title": "Neden Marksizmi Reddettim",
           "pageNum": "48",
           "year": "1976",
@@ -747,7 +747,7 @@
         },
         {
           "stars": "(63)",
-          "img": "../../../../../../../../../src/assets/booksImg/قراءة للمستقبل.jpg",
+          "img": "/books-images/قراءة للمستقبل.jpg",
           "title": "Geleceği Okuma",
           "pageNum": "98",
           "year": "1990",
@@ -759,7 +759,7 @@
         },
         {
           "stars": "(22)",
-          "img": "../../../../../../../../../src/assets/booksImg/عالم الأسرار.jpg",
+          "img": "/books-images/عالم الأسرار.jpg",
           "title": "Sırlar Dünyası",
           "pageNum": "66",
           "year": "1992",
@@ -771,7 +771,7 @@
         },
         {
           "stars": "(76)",
-          "img": "../../../../../../../../../src/assets/booksImg/حكايات مسافر.jpg",
+          "img": "/books-images/حكايات مسافر.jpg",
           "title": "Bir Gezginin Hikayeleri",
           "pageNum": "131",
           "year": "1992",
@@ -783,7 +783,7 @@
         },
         {
           "stars": "(43)",
-          "img": "../../../../../../../../../src/assets/booksImg/لغز الحياة.jpg",
+          "img": "/books-images/لغز الحياة.jpg",
           "title": "Hayatın Sırrı",
           "pageNum": "100",
           "year": "1967",
@@ -795,7 +795,7 @@
         },
         {
           "stars": "(54)",
-          "img": "../../../../../../../../../src/assets/booksImg/الطريق إلى الكعبة.jpg",
+          "img": "/books-images/الطريق إلى الكعبة.jpg",
           "title": "Kâbe'ye Yolculuk",
           "pageNum": "45",
           "year": "1971",
@@ -807,7 +807,7 @@
         },
         {
           "stars": "",
-          "img": "../../../../../../../../../src/assets/booksImg/الزلزال.jpg",
+          "img": "/books-images/الزلزال.jpg",
           "title": "Deprem",
           "pageNum": "42",
           "year": "1963",
@@ -819,7 +819,7 @@
         },
         {
           "stars": "(71)",
-          "img": "../../../../../../../../../src/assets/booksImg/سواح في دنيا الله.jpg",
+          "img": "/books-images/سواح في دنيا الله.jpg",
           "title": "Allah'ın Dünyasında Yolcular",
           "pageNum": "96",
           "year": "2000",
@@ -831,7 +831,7 @@
         },
         {
           "stars": "(65)",
-          "img": "../../../../../../../../../src/assets/booksImg/أيها السادة اخلعوا الأقنعة.jpg",
+          "img": "/books-images/أيها السادة اخلعوا الأقنعة.jpg",
           "title": "Sayın Beyler, Maskelerinizi Çıkarın",
           "pageNum": "108",
           "year": "1984",
@@ -843,7 +843,7 @@
         },
         {
           "stars": "(24)",
-          "img": "../../../../../../../../../src/assets/booksImg/أكل عيش.jpg",
+          "img": "/books-images/أكل عيش.jpg",
           "title": "Hayatı Yemek",
           "pageNum": "134",
           "year": "1954",
@@ -855,7 +855,7 @@
         },
         {
           "stars": "(44)",
-          "img": "../../../../../../../../../src/assets/booksImg/أكل عيش.jpg",
+          "img": "/books-images/أكل عيش.jpg",
           "title": "İmkansız",
           "pageNum": "144",
           "year": "1960",
@@ -867,7 +867,7 @@
         },
         {
           "stars": "(44)",
-          "img": "../../../../../../../../../src/assets/booksImg/رحلتي من الشك إلى الإيمان.jpg",
+          "img": "/books-images/رحلتي من الشك إلى الإيمان.jpg",
           "title": "Şüphe İçeriden İmana",
           "pageNum": "71",
           "year": "1970",
@@ -879,7 +879,7 @@
         },
         {
           "stars": "(12)",
-          "img": "../../../../../../../../../src/assets/booksImg/الطوفان.jpg",
+          "img": "/books-images/الطوفان.jpg",
           "title": "Tufan",
           "pageNum": "66",
           "year": "1976",
@@ -891,7 +891,7 @@
         },
         {
           "stars": "(42)",
-          "img": "../../../../../../../../../src/assets/booksImg/في الحب والحياة.jpg",
+          "img": "/books-images/في الحب والحياة.jpg",
           "title": "Aşk ve Hayat Üzerine",
           "pageNum": "148",
           "year": "1966",
@@ -904,7 +904,7 @@
         {
           "id": 76,
           "stars": "",
-          "img": "../../../../../../../../../src/assets/booksImg/نار تحت الرماد.jpg",
+          "img": "/books-images/نار تحت الرماد.jpg",
           "title": "Küllerin Altındaki Ateş",
           "pageNum": "100",
           "year": "1979",
@@ -916,7 +916,7 @@
         {
           "id": 77,
           "stars": "",
-          "img": "../../../../../../../../../src/assets/booksImg/القرآن كائن حي.jpg",
+          "img": "/books-images/القرآن كائن حي.jpg",
           "title": "Kuran Canlı Varlık",
           "pageNum": "74",
           "year": "1978",
@@ -928,7 +928,7 @@
         {
           "id": 78,
           "stars": "(46)",
-          "img": "../../../../../../../../../src/assets/booksImg/المسيخ الدجال.jpg",
+          "img": "/books-images/المسيخ الدجال.jpg",
           "title": "Deccal",
           "pageNum": "73",
           "year": "1979",
@@ -940,7 +940,7 @@
         {
           "id": 79,
           "stars": "(17)",
-          "img": "../../../../../../../../../src/assets/booksImg/الشيطان يحكم.jpg",
+          "img": "/books-images/الشيطان يحكم.jpg",
           "title": "Şeytan Hüküm Sürüyor",
           "pageNum": "97",
           "year": "1986",
@@ -952,7 +952,7 @@
         {
           "id": 80,
           "stars": "(37)",
-          "img": "../../../../../../../../../src/assets/booksImg/وبدأ العد التنازلي.jpg",
+          "img": "/books-images/وبدأ العد التنازلي.jpg",
           "title": "Gerileme Sayımı Başladı",
           "pageNum": "116",
           "year": "1985",
@@ -964,7 +964,7 @@
         {
           "id": 81,
           "stars": "(45)",
-          "img": "../../../../../../../../../src/assets/booksImg/السؤال الحائر.jpg",
+          "img": "/books-images/السؤال الحائر.jpg",
           "title": "Sorunun Yanıtsızlığı",
           "pageNum": "117",
           "year": "1989",

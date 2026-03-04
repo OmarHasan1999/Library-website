@@ -14,8 +14,7 @@
               </p>
             </div>
 
-            <img src="../../assets/images/تنزيل.jpg">
-            <img src="../../assets/images/تنزيل.jpg">
+            <img src="/books-images/musatfa-mahmod.jpg">
 
         </div>
     </article>
