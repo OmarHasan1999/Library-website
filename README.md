@@ -1,9 +1,34 @@
+## مصطفى محمود | مكتبة رقمية
+> A digital library website for the Egyptian writer and philosopher **Mustafa Mahmoud**
+
+## 🔗 [Live Demo](https://mustafa-mahmoud-library.web.app)
 
 
-> library website by the writer **Mustafa Mahmoud**
-********************************
+## About
 
-- This template should help get you started developing with Vue 3 in Vite.
+- I built this project out of my admiration for Dr. Mustafa Mahmoud — a writer who bridges science, philosophy, and faith in a way that speaks to every mind.
+
+- The website serves as a complete digital archive of his 81 books, quotes, and TV program episodes, built with a focus on clean UI and smooth user experience.
+
+## Tech Stack
+
+![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vue.js)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)
+![Pinia](https://img.shields.io/badge/Pinia-3-FFD859?logo=pinia)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?logo=firebase)
+
+---
+
+## Features
+
+- 📚 Browse and download 81 books with category filter
+- 💬 Read quotes from different books with load more
+- 📺 Watch episodes from the TV program "Al-Aql wal-Iman"
+- 🎨 Fully responsive design (mobile & desktop)
+- ⚡ Fast performance with local JSON data
+
+---
 
 ## Project Setup
 
@@ -11,13 +36,13 @@
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Production Build
 
 ```sh
 npm run build

@@ -1,7 +1,6 @@
 <template>
     <div class="notFound">
         <h3>Page Not Found ...</h3>
-        <!-- Ana sayfaya geri dönme bağlantısı -->
         <router-link class="notFoundButton" to="/">Back To Home Page</router-link>
     </div>
 </template>
@@ -11,7 +10,6 @@ export default {
 }
 </script>
 <style lang="css">
-/* Sayfa bulunamadı stil tanımları */
     .notFound{
         display: flex;
         justify-content: center;

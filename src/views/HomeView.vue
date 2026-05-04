@@ -6,8 +6,6 @@
 
 <template>
   <DefaultLayouts>
-    <HomePage />
-    
-    
+    <HomePage/>
   </DefaultLayouts>
 </template>
